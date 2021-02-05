@@ -33,4 +33,5 @@ logging:
       settings:
         trace: false
         web-allow-others: false
+server.port: 9999
 spring.fullstart=true
